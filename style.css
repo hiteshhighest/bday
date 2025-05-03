@@ -202,7 +202,9 @@ body {
   background-color: #ffd700;
   border: 2px solid transparent;
   border-radius: 5px;
+  color: #fff;
   cursor: pointer;
+  transition: all 0.3s ease;
 }
 
 .switch:hover {
